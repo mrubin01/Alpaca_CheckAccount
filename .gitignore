@@ -1,0 +1,11 @@
+# Keep these files private
+config.py
+accountHistory.txt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Not sure
+.DS_Store
